@@ -1,0 +1,24 @@
+# Afterthought: Writing To Learn by William Zinsser
+afterthought
+
+<p class="text-center"><em>Writing about mathematics isn't the same as writing mathematics.<br>***</em></p>
+
+The notion of writing as a form of thinking isn't new. One first write blogs as a replacement to paper diary, undiscoverable on search engines, shared only with the closest of friends, full of assumptions, targeted only to be read by oneself. Later in 2020/21, fast.ai encouraged one to write public blogs, housing chronological learning, describing problems along the way with their respective solutions, in a language the general public understands, devoid of hidden assumptions. 
+
+Writing about something isn't the same as writing something. The former introduces a topic to the reader, contains information expected by the reader, to satiate his/her curiosity, or to solve his/her problem(s). The moment it satiates, or the problem solved, the content loses its purpose. The latter delivers a nonfiction content in a fiction style. Someone who reads Harry Potter for enjoyment find similar interest reading a book writing something. Enjoyment is derived without the need to convince one's mind, with ideas encapsulate within and between stories, yet sufficiently separated in bringing reader's attention into focus, via the moral of the story, or via the reader boarding the author's train of thoughts. The author, in search of the right word, the right phrase, the right sentence, think and rethink his/her assumptions, clarify his/her ideas, question his/her positions, before laying one's words, and affirms with relaxed eyebrows. 
+
+Author notes these two types of writing as:
+- **Type A (explanatory)** writing: writing that transmits existing information or ideas. 
+- **Type B (exploratory)** writing: writing that enables us to discover what we want to say. 
+
+Both are equally valid and useful. Though, one wrote more type A than type B writing, thanks to learning. Either because one feels lazy to rephrase, or one just can't think of how it triggers an "aha" moment, ultimately leads to type A writing. Type A writing isn't always fun to write, for it is a compilation of what one learns, simplified from one's private notes. Type B writing, however, one can write how one want to write. While the author said editing is important, and one can agree that editing did change how one speaks of something, one tend not to rewrite stuffs due to laziness and lack of motivation. 
+
+Part II are more targeted. In general, reading the whole of it gains knowledge; yet if you're from a certain discipline and only want to learn on that discipline, it's safe to assume skipping to read on that discipline. Though, each discipline's writing tips are transferrable to other disciplines, so reading all would be preferable. 
+
+### Notes:
+1. One don't remember whether one started writing blogs in 2020 or 2021. The first blog in this website, though, is in June 2021, unless one deleted some blogs that one don't remember... 
+2. Similarly, if one changed one's assumptions later, one can't decode what one write anymore without recalling back past assumptions, if it's still recall-able, hopefully... 
+3. One could have assumptions in a blog, but they mostly require stated clearly. E.g. if you assume only some culture can understand it, then state it out. Or if you assume only people with at least high school physics can understand it, say so. 
+4. One can assure you, that on the minute amount of articles that one at least rewrite once, they changed how they're presented. As the author said, we can't be sure that's how we want to present an information on the first draft. Rewriting clarify our thoughts. 
+5. Not related to this book: one feels very difficult to write very long articles, what says a book, because when there are lots of information piling up inside one's brain, one tend to feel like writing them in one go; but there are limited attention span one can concentrate in one go. The immense urge to complete something is so strong that one gets burned out easily, like a big fire with limited logs. Perhaps that's why one never finishes writing a book, or publishing the one and only book one publishes without a conclusion. 
+6. One can test a book writing about vs writing (on). Pause a book for a month, and try picking it up again. With limited motivation, continue the book. If you pause again after a chapter or two, switch to another book; it's writing "for". If you can finish the book, it's writing "on". If you feel the book is writing "on" but can't finish the book, it's probably the shitty narratives. 
