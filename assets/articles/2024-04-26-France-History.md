@@ -23,6 +23,9 @@ Speaking of Roman Empire, the fascinating thing is, Roman's road were built to l
 
 Perhaps, this was all around Europe. The tiny villages instead of a single government was the norm of Europe several centuries ago. At least, one's friend told me it was in Germany. Who knows, how it would be in other countries too? 
 
+### Edit 27/04/2024
+One actually didn't know what "meter" represents. Unlike more human-friendly measurement like "foot" represents the Roman king's foot length, one took a "meter" for granted; until it told me, a "meter" measures exactly one ten-millionth the distance from the North Pole to the Equator. While that don't have meaning to local human, as an international measure, it now has a meaning. 
+
 ### Notes
 1. A list of revolution can be [found here](https://guides.loc.gov/women-in-the-french-revolution/revolutions-rebellions/1789-1830-1848#:~:text=The%20three%20major%20revolutions%20in,his%20famous%20wife%2C%20Marie%20Antoinette.), though one can't ensure that's all. 
 2. By "leftover", one means that science had gradually replace religion globally, so even if it was established within the last one or two centuries, it's slowly being "replaced." Though, one don't know how religious people in France are today, so one can't really speak about it. 
