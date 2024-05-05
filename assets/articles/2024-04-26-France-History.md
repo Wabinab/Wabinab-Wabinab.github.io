@@ -1,5 +1,5 @@
 # Afterthought: The Discovery of France by Graham Robb
-afterthought
+afterthought history
 
 Wait, France wasn't a single country several centuries ago? Several years ago, one was interested in the language of French, but never learned the history of France, until one read this book. The prospect that Europe was a warring place were misty then, but not totally unknown. Yet, without reading history books in depth, one really thought the world was similar to what we have today, with nations as the main ruling country. After all, one only have more knowledge on China's history and its neighboring countries, which are ruled by dynasties; but the general history books never mentioned about life of peasants. Furthermore, one heard of the Roman Empire, but don't know how it was rule either. The macro blurs the micro. 
 
