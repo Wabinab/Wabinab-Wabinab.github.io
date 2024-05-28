@@ -26,6 +26,10 @@ Part V and Part VI describes more of the normal people, and normal life in Italy
 Overall, the book keeps the narratives lively, supply interesting information, and if you read 10 pages daily (with pause rarely), you can complete it within 3-4 months. That's how a book this thick is completed, not to burn yourself out reading, like those addictive novels. Actually, one got tired reading [The Rise and Fall of Great Powers by Paul Kennedy](https://www.amazon.com/Rise-Fall-Great-Powers/dp/0679720197) due to its numbers, so one stop after finishing Chapter 6, and proceed with this book. One was reading [Writing to Learn](https://www.amazon.com/Writing-Learn-William-Zinsser/dp/0062720406) when one started, and one hunts for good and clear English that narrates the text alive. Author is one. Strongly encouraged! 
 
 
+### Edit 28/05/2024:
+One may had confused Venice with Vienna from Austria. The manga, 维也纳, seemed to refer to Vienna than Venice. 
+
+
 ### Notes: 
 1. One actually confused Niccolo Machiavelli with a character from a novel, called Nicholas Flamel, so Niccolo and Nicholas, not much differently sound inside one's mind. A search online said "Nicolas Flamel" isn't even English, but French. 
 2. Just proves how important decentralization is. If your food is concentratedly produced in one part of the country, and if your country is large, if something breaks, you can't transport food to that part, and everyone's gonna be in famine state. That's how [Antifragile](https://www.amazon.com/gp/product/1400067820/ref=as_li_qf_asin_il_tl?ie=UTF8&creative=9325&creativeASIN=1400067820&linkId=d0d28d2424326ff3226ed525c676f24d) describes it. 
