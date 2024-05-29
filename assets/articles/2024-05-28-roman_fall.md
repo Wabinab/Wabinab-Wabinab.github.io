@@ -1,7 +1,7 @@
 # Afterthought: The History of the Decline and Fall of the Roman Empire By Edward Gibbon
 afterthought history
 
-Ok, it was far from an afterthought, for one only finished 11 chapters out of 71, but one already had some thoughts about it, so let's start writing, and we'll add in later. 
+Ok, it was far from an afterthought, for one only finished 11 chapters out of 71, but one already had some thoughts about it, so let's start writing, and we'll add the extra later. 
 
 ### 28/05/2024
 There was two main flaws one like to discuss today; but before that, let one clarify how one intend to read the book. As a history book, one tend to read it like how one would read a novel rather than going for an exam, hence, _relaxing_ style. To enjoy the world history than to burden oneself with the dates and place and time and politics and whatsoever. The previous history book, The Renaissance by Will and Ariel Durant, had done a great job on that. Unfortunately, this book doesn't. 
