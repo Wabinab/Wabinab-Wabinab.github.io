@@ -1,0 +1,34 @@
+# Afterthought: The Structure of Scientific Revolutions By Thomas Kuhn
+afterthought
+
+This book leaves an impressive second impression. Unfortunately, it's first impression is of difficult English comparable to _The Rise and Fall of the Roman Empire_ by Edward Gibbons, requiring to read a single paragraph several times to understand it, to make it simple to understand. That lasted until about section 2 before his clear thinking makes all difficulty goes away. Yes, language still wasn't as easy as we wanted primary school kids to understand, but we don't really need to understand every single word to understand how the story flow (unless there are too many unknown words. That's why one failed to read Sherlock Holmes while one was in lower secondary...). 
+
+According to Ian Hacking, his thinking sometimes don't apply anymore in a world dominated by biologists. One would say, reading Humboldt, perhaps nature was originally what it was, and a change to physics theory, to the simplification of an unable-to-be-simplified nature (except by approximation, which is what physics is doing), was a problem in the 20th century. And our return to nature just admit things are complex and complicated, as is with computers, as is with the internet, and the nature around us. 
+
+Let's make some summarization (non-exhaustive, so read the book if you mind). 
+
+Author split the difference between 'normal' science and 'revolutionary' science. Normal science is what scientists did nowadays, though what's 'normal' is worth distinguishing. For example, most people study nowadays before entering a discipline to do research, and they usually research depends on the problems posed by their discipline, to their importance plus their choice. In the past, it really depend on choice, and you won't have an education (as there's not really much to teach other than find the book resources yourself on what you'd like to read, which was distributed here and there). So, what's 'normal' today may not be 'normal' then. 
+
+As for 'revolutionary' science, it's what Nassim Taleb called "black swans". Author mentioned that science advanced in steps, not smoothly. These revolutions probably don't 'happen' overnight; they remains dormant as their researchers worked on them, until it explode (when they announced their work to the public) and voilà, we have a black swan. 
+
+Then, there's the idea of 'paradigm', which many readers critique how author used it interchangeably between, say, 22 definitions. One don't know how they saw it, but for one, one really only see one definition from one point of view: **the scaffolding to determine where research would progress in the future.** Then, two different communites that don't shares a paradigm will have conflicting understanding that's worth debating over. For example, Sun was a 'planet' before Copernican or Keplerian; but they changed it to 'stars'. So if we spoke to them that the 'sun' is a 'star', they would say it's wrong, because it's a 'planet'. Similarly for the moon, they say it's 'planet' when we say it's a 'satellite'. 
+
+When we have a revolution, we're saying that the old paradigm cannot do its work well, and we need to replace it with a better paradigm. This is called a _crisis_. That's at least, most of the time. Example, to believe that the Earth revolves around the Sun, not the other way round. Sometimes, the replacement is because the old cannot calculate as accurate or precise as the newly suggested paradigm. But one do suggest, sometimes, we don't need to replace a paradigm with another. Just look at Newtonian and Einsteinian; Einsteinian is more complicated bt more accurate; Newtonian is less accurate but easy to understand; they both were still used together. Though, they don't share the same language. 'Space' and 'Time' in Einsteinian is totally different, in terms of its definition, from those in Newtonian. Einsteinian don't use Euclidean space, even if the mathematics is derivable; the definition of the word 'space' isn't compatible with Euclidean. 
+
+---
+
+Let's return to normal science for a while. Author mentioned that normal science is a puzzle-solving activity nowadays. The paradigm produces a scaffolding, but only scaffolding. Whatever is empty requires to be filled, and hence the filling of those voids are called "puzzle solving". 
+
+Other more confusing ideas include that paradigm is not equals to rules. Paradigm don't tell you how you should do things, which rules does; instead, it's more like a platform that points you to a direction, and however you want to do it, do it. Yet practically, things aren't as perfect as we theorize it to. So, people derive rules, implicit or explicit, from social norms. So that's another thing to take in mind. 
+
+The dates in history? They're misleading. We don't "discover" something in a day or immediately; rather, they progressed through a series of steps, clear or unclear, before the author published it to the public. Some historians treat the date of publication as the date of discovery; others treat the date of when an anomaly noticed be the date of discovery; still others took the dates in between, depending on their criteria to assess what it means by "discovery". Author suggested it to be the range of date between first noticing an anomaly and publication the **dates** (notice the 's' behind) of discovery, rather than a single date, a range of dates. 
+
+During a crisis, scientists don't abandon the currently using paradigm. While it can't solve lots of problems, it can solve other problems, so they continued using it and note the 'exceptions'. Author suggests that, not until we have a paradigm ready to replace the old paradigm, we continue using the old paradigm; similar to when you need to change a system, like the supermarket POS system, or a security camera system; you would want seamless change, so anything must be ready in place, tested, before the old ones removed. 
+
+Textbooks and historians hid revolutions. They tend to say science move cumulatively, from one point to another, but mentioned nothing about the paradigm, the crisis; or even if mentioned, they were phrased such that they don't seem like a crisis, but a puzzle-solving problem. E.g. the Mars perihelion is a problem Newton didn't solve, so Einstein set out to solve it in his office, and violà, we now have a solution. How fake is that statement! 
+
+Revolution test the paradigm by saying the base was wrong; but normal research don't. We assume what we learnt from Newton, from Maxwell, from whoever, are correct. Their formula applies. A revolution said their formulas are wrong, and set out to replace it. 
+
+That's some of the stuffs that author wrote about. For more information, one should go forward and read the subject. 
+
+[One now offers casual writing service to the public. Check it out!](https://www.fiverr.com/s/D84XrA)
