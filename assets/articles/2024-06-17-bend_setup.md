@@ -29,6 +29,33 @@ Check `lsb_release -a` gives the correct version. Simultaneously, while one dele
 
 That really doesn't explain. Why would it stuck there forever? Scrolling through the thread, one saw a link to [another thread](https://github.com/HigherOrderCO/Bend/issues/364), and there was [a solution](https://github.com/HigherOrderCO/Bend/issues/364#issuecomment-2123806021). Now, this is related to one, because one's using GTX 1080 Ti instead of RTX 3070; and that had to do with reducing the memory set or something. Ok, one don't understand what the code means, but one don't need to understand it anyways; just follow the trick to fix the code and install `hvm` from there. After some pain in the arse doing it to both 22 and 24 Ubuntu, one tried bend again, and... nope, it's not fix. Still jam there. 
 
+Just to repeat what he did in case the thread is gone for whatever reason (and changing the hvm to v2.0.19): 
+```bash
+mkdir ~/hvmtmp
+cd ~/hvmtmp
+cargo init
+cargo add hvm@=2.0.19
+cargo vendor vendor
+cd vendor/hvm
+code .  # open in VS Code, my editor of choice.
+```
+
+Edit `src/hvm.cu` `L_NODE_LEN` and`L_VARS_LEN`: 
+```cu
+// Local Net
+const u32 L_NODE_LEN = 0x2000/4;
+const u32 L_VARS_LEN = 0x2000/4;
+struct LNet {
+  Pair node_buf[L_NODE_LEN];
+  Port vars_buf[L_VARS_LEN];
+};
+```
+
+Then install: 
+```bash
+cargo install --path .
+```
+
 Now, clearly, almost all specs had been similar to the suggested solution. What hadn't been fix yet? If you read my article on [DPC Watchdog Violation](https://wabinab.github.io/article?filename=2024-06-09-DPC_Watchdog_Violation.md) before, you'd know one really, really, really, don't want to change the Nvidia Driver version in case it fails again. But this make one no choice. That's the only difference left: they're using Driver Version 555, but one's using 536. Ok, so we go, update driver. Whether or not it'll blue screen in the future, one don't know, as one just installed it today, and that requires a few day to a few weeks to examine the hypothesis. Anyways, after installation, we'll verify it with `nvidia-smi`. Running that on powershell, it's okay. Running that on wsl2, both Ubuntu 22 and 24 gives `segmentation fault` problem. 
 
 Let's go back in time a bit. Before that happens, one actually try install `hvm v2.0.13` as mentioned by the author, but it has an error: 
