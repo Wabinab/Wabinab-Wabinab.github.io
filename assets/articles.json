@@ -139,5 +139,8 @@
   },
   "2024-06-16-Simple_truth.md": {
     "Afterthought: Simple Truth By Kent Nerburn": "Now, a really short book that shares wisdom is always worth. We don’t necessarily need to listen to what he says, but in a world where too little of us listen to"
+  },
+  "2024-06-17-bend_setup.md": {
+    "Setting Up Bend On WSL2: Fix This For Me!": "A few days ago, one heard of this computer program called Bend that offers “whatever parallel will run in parallel” so you don’t have to write threading and all that, so one"
   }
 }

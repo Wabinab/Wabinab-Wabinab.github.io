@@ -21,7 +21,8 @@
     "2022-09-15-Rails_How_To_Create_Body_Without_JS.md",
     "2023-01-30-Angular_Material_With_Ngx_Bootstrap.md",
     "2023-10-13-a_crypto_bug.md",
-    "2024-02-12-A_Payment_System_On_Near_Protocol.md"
+    "2024-02-12-A_Payment_System_On_Near_Protocol.md",
+    "2024-06-17-bend_setup.md"
   ],
   "another": [
     "2021-07-04-Sourcing_Images_Build_Model_and_Deployment.md"
@@ -81,6 +82,10 @@
     "2024-05-20-Humboldt.md"
   ],
   "computer_bugs": [
-    "2024-06-09-DPC_Watchdog_Violation.md"
+    "2024-06-09-DPC_Watchdog_Violation.md",
+    "2024-06-17-bend_setup.md"
+  ],
+  "cuda": [
+    "2024-06-17-bend_setup.md"
   ]
 }
