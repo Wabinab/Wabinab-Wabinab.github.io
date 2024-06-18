@@ -125,3 +125,40 @@ That's it for today.
 - GTX 1080 Ti
 
 [One now offers casual writing service to the public. Check it out!](https://www.fiverr.com/s/D84XrA)
+
+### Edit:
+The program **cannot run bitonic_sort** because it'll OOM. So be careful, it's not yet mature enough to run on 1080 Ti yet. 
+
+There are some tweaks one could made on the HVM v2.0.19 to get your GPU to calculate faster. Unfortunately, one don't understand how did one got these values either. If you experimented with it and understood, just tell me. 
+
+First, use this tool: https://github.com/NVIDIA/cuda-samples/tree/master/Samples/1_Utilities/deviceQuery
+
+Then, it could tell the clock speed of the GPU. Set that to it. Unfortunately, you can't simply set the values according to what your manufacturer tell you. For example, Thread Per Core is actually SM count, but setting it to 28, the program jammed. But setting it to `TPC = 1 << TPC_L2` with `TPC_L2 = 5` (so `TPC = 32` using bit shift), it worked. Then, `TPC_L2` and `BPG_L2` seemingly must be equal??? At least, one can't remember if there's any value one set that it worked without being equal. If they aren't equal, you'd have this error (returned by Bend, not in HVM): 
+
+```bash
+Warnings:
+During readback:
+  Unable to interpret the HVM result as a valid Bend term. (Reached Root)
+```
+
+This is my current values: 
+
+```cu
+// Threads per Block
+const u32 TPB_L2 = 5;
+const u32 TPB    = 1 << TPB_L2;
+
+// Blocks per GPU
+const u32 BPG_L2 = 5;
+const u32 BPG    = 4 << BPG_L2;
+```
+
+They currently give the fastest. As for BPG, one noticed even if one used 1 or 2 instead of 4 before the bit shift, it also worked equally well, unsure why. But `BPG_L2` cannot be different, so if we have `BPG_L2 = 7` and `BPG = 1 << BPG_L2`, it'll return the "unable to interpret" error listed above. 
+
+As for Local Net, according to the paper, it's something to do with L1 cache. Since 4090 has 128 kB (per SM core), and `0x2000` is 8192, and since 1080 Ti has only 48 kB (per SM core), we should do cross multiplication. 
+
+$$ \frac{48}{128} = \frac{x}{8192} $$
+
+Then, calculate for $x$, we get $x = 3072$, and convert that to hexadecimal, we get `0x0C00`. So, instead of using `0x0500`, we should use this instead. 
+
+That basically concludes my experimentation for today. Off for something else! 
