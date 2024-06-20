@@ -20,6 +20,9 @@ It was so bad that one had to write this afterthought before one ended it. The l
 
 Anyway, will make an update again after one finished Volume 1 (presumably, Chapter 1-16 inclusive). 
 
+### Edit 20 June 2024
+Finally finished it today; after so long, it still had been quite difficult to understand. One didn't change one's mind about the story being entertaining, but the English could be improved by a lot. So far, one can remember something about Christianity in the last 2 chapters one read, and some chapters ago, there was something about the Empire split into east and west (nothing related to Byzantine, at least not yet) for a period before someone ended it, and Roman was one (un-split) again. 
+
 
 ### Notes:
 1. Books that totally use easy-to-understand language, despite easy, makes our brain lazy, and when our brain don't move, we don't remember what is mentioned. 
