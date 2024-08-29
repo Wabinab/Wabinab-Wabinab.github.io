@@ -148,5 +148,11 @@
   },
   "2024-07-28-Filters_Against_Folly.md": {
     "Afterthought: Filters Against Folly By Garrett Hardin": "If you read enough books (maybe including blog/articles, one don’t know), if we ignore those uninteresting books, and those that don’t gain you knowledge, and those that even stole knowledge from you"
+  },
+  "2024-08-14-Setting_up_Angular_Electron_Sqlite3.md": {
+    "Angular Electron Sqlite3 Combo": "This is intended for personal records only. Upon creation of angular project (v18), there are something in tsconfig.json we need to change, so it don’t bother us too often (too annoyingly). Here"
+  },
+  "2024-08-24-How_to_know_a_person.md": {
+    "How To Know A Person By David Brooks": "Oh, how one wished one read this book earlier in 2017 or 2018. But hey, the book wasn’t even published at that time. People had been figuring out with their lives, getting"
   }
 }
