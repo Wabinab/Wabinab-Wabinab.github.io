@@ -1,0 +1,10 @@
+# Wanderlust by Rebecca Solnit
+afterthought
+
+There's something in Chapter 8 that kept one thinking for long. It's about author mentioned how some author cannot resist the "how", to teach the reader 'how' to walk, describing under it what to think of, what to notice, what to do, etc. And that keeps one thinking, if there are more books on 'how', which 'how' do one want to ignore, and which 'how' do one want to listen to? 
+
+If, in walking, we can reject the 'how' of the author by saying, "this is none of your business. One walk how one like/love to walk, and you shouldn't prevent one from walking one's way, even just mentally," what about other aspects? Are there other aspects that we could use the same argument, to not listen to the how? And in what sense do we listen to the how? I.e. in what area do we _want_ to listen to the 'how'? 
+
+One don't have an answer to that. Seriously speaking, 'how' is a way of understanding the problem stated from the author's perspective. If the author says how he walks, we reading it means we shouldn't learn how he walks, but just to understand how he thought he walks (and 'he' here includes female, just to make it consistent one'll use 'he' than (s)he). We could have our taste, our way of walking. And for one, if it's something one think one don't know about, like there's a book called _How to Read a Book_ by Mortimer Adler, it's worth reading. One hadn't read that book yet, but it's worth learning from him how he read a book, and see (and really try) how his way of reading beats one's way of reading. So far, one read more casually than seriously, for the latter usually result in quick headache, while the former can last throughout the day, meaning little brain exertion, probably. In this case, one's interested in learning what author Mortimer Adler had to teach and learn from him. On the other hand, walking is what one decide to leave the 'how' to oneself, prefering the author to describe the 'why' and the 'what', to share his/her perspective and understand rather than teach me 'how' to do these stuff -- no originality. 
+
+(Unfinished)
