@@ -1,6 +1,8 @@
 # Wanderlust by Rebecca Solnit
 afterthought
 
+> Make sure you read the book **before** reading my commentary. Otherwise, **it'll distort** your reading. You'll only consider one's point, but failed to consider other equally important points by the author. **This warning applies to ALL COMMENTARIES**, critical or not of the book. Furthermore, most people don't even understand what they read, they just speak their mind without understanding, nor _respecting_ the book (myself included). 
+
 There's something in Chapter 8 that kept one thinking for long. It's about author mentioned how some author cannot resist the "how", to teach the reader 'how' to walk, describing under it what to think of, what to notice, what to do, etc. And that keeps one thinking, if there are more books on 'how', which 'how' do one want to ignore, and which 'how' do one want to listen to? 
 
 If, in walking, we can reject the 'how' of the author by saying, "this is none of your business. One walk how one like/love to walk, and you shouldn't prevent one from walking one's way, even just mentally," what about other aspects? Are there other aspects that we could use the same argument, to not listen to the how? And in what sense do we listen to the how? I.e. in what area do we _want_ to listen to the 'how'? 

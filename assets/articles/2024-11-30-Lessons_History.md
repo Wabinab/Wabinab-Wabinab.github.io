@@ -1,6 +1,8 @@
 # "Lessons" of the past: The Use and Misuse of History By Ernest May
 afterthought
 
+> Make sure you read the book **before** reading my commentary. Otherwise, **it'll distort** your reading. You'll only consider one's point, but failed to consider other equally important points by the author. **This warning applies to ALL COMMENTARIES**, critical or not of the book. Furthermore, most people don't even understand what they read, they just speak their mind without understanding, nor _respecting_ the book (myself included). 
+
 Author listed in details the 4 different scenarios where histories had been misused, and state what alternatives it could have lead to "if only", plus a (relatively useless, in one's idea) prediction of what the "next decade" (as of writing) will be like (Relatively useless because it doesn't apply anymore, though you can compare it in hindsight to what happened if you're fancy with knowing his accuracy), and finally, he spokes about teaming up with historians, and opening up the database for access for accurate prediction. 
 
 Now, one don't really care about the politics, because it is none of my business. However, the ideas that author speaks of actually do apply outside politics. For example, while all the choices to make concerns the US government and the outside world (other countries), and the history they get from are from various sources (mostly of recent 'experiences'), why not apply it to individuals? 
