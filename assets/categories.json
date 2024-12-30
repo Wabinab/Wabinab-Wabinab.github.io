@@ -82,7 +82,8 @@
     "2024-11-30-Lessons_History.md",
     "2024-11-04-Wanderlust.md",
     "2024-12-11-How_to_do_Nothing.md",
-    "2024-12-14-Becoming_Wise.md"
+    "2024-12-14-Becoming_Wise.md",
+    "2024-12-30-Snowball.md"
   ],
   "history": [
     "2024-03-11-Sapiens.md",
@@ -105,5 +106,8 @@
   ],
   "app": [
     "2024-08-14-Setting_up_Angular_Electron_Sqlite3.md"
+  ],
+  "autobiography": [
+    "2024-12-30-Snowball.md"
   ]
 }
