@@ -46,3 +46,6 @@ OK, one got it. A history of something that'd happened isn't changeable, so that
 > Yes. The people in the past think it's morally "right" to eat your elders, because if you don't, it's a waste of food. Food was scarce back then. 
 
 Right, I see. 
+
+
+[Find me at Upwork and propose any writing/programming work by sending one a message!](https://www.upwork.com/freelancers/~011a1c60f09fff5f90?mp_source=share). 
